@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeSuite;
 public class Driver {
 	public static String path;
 	public static WebDriver driver;
-	
+	//this classused a driver class that class hold two classess
 	@BeforeSuite
 	public void Launch_Driver()
 	{
